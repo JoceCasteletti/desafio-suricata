@@ -1,0 +1,43 @@
+body {
+  font-family: "Open Sans";
+}
+
+.borders-page{
+  background-color: #E83E8C;
+}
+
+.navbar-logo {
+  max-width: 132px;   
+}
+
+.nav-link{
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.icons{
+  color: #ffffff;
+  background-color:#17A2B8;
+}
+
+footer{
+  padding-top: 42px;
+  padding-bottom: 42px;
+}
+
+.img-footer {
+  max-width: 53px;
+}
+
+section.cards {
+  margin-top: 120px;
+}
+
+section.accepted-payments {
+  padding-top: 58px;
+  padding-bottom: 58px;
+}
+
+section.accepted-payments i {
+  font-size: 53px;
+}
